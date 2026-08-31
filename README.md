@@ -16,27 +16,19 @@ I'm passionate about clean code, innovative solutions, and collaborative develop
 
 ## 📊 GitHub Stats
 
-![CascadeInfinity's GitHub stats](https://github-readme-stats.vercel.app/api?username=CascadeInfinity&show_icons=true&theme=radical)
+![CascadeInfinity's GitHub stats](https://github-readme-stats.vercel.app/api?username=CascadeInfinity&show_icons=true&theme=radical&hide_border=true)
 
 ### 🔝 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CascadeInfinity&layout=compact&theme=radical)
-
-### 📈 Contribution Graph
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=CascadeInfinity&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CascadeInfinity&layout=compact&theme=radical&hide_border=true)
 
 ### 🎯 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=CascadeInfinity&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-### 📅 Coding Activity
-
-![CascadeInfinity's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=CascadeInfinity&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=CascadeInfinity&theme=radical)](https://git.io/streak-stats)
 
 ## 🏆 Achievements
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=CascadeInfinity&theme=radical&no-frame=false&no-bg=true&margin-w=5)
+![Trophy](https://github-profile-trophy.vercel.app/?username=CascadeInfinity&theme=radical&no-frame=true&margin-w=4&column=3)
 
 ## 🎯 Current Focus
 
@@ -52,6 +44,21 @@ I'm passionate about clean code, innovative solutions, and collaborative develop
 - Machine Learning
 - Open Source Contribution
 - DevOps & CI/CD
+
+## 📊 This Week's Stats
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Coding Activity</h3>
+      <p align="center">Track my contributions and commits</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Repository Stats</h3>
+      <p align="center">Explore my public repositories</p>
+    </td>
+  </tr>
+</table>
 
 ## 📫 Get in Touch
 
@@ -71,6 +78,6 @@ Check out my repositories to see what I'm working on. Feel free to explore, fork
 
 ⭐ If you find something useful, consider giving it a star!
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=CascadeInfinity.CascadeInfinity)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=CascadeInfinity.CascadeInfinity&color=blue)
 
 </div>
