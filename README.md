@@ -16,19 +16,29 @@ I'm passionate about clean code, innovative solutions, and collaborative develop
 
 ## 📊 GitHub Stats
 
-![CascadeInfinity's GitHub stats](https://github-readme-stats.vercel.app/api?username=CascadeInfinity&show_icons=true&theme=radical&hide_border=true)
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CascadeInfinity&show_icons=true&theme=dark&hide=contribs,prs)
 
-### 🔝 Most Used Languages
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CascadeInfinity&layout=compact&theme=radical&hide_border=true)
+## 🔝 Top Languages
 
-### 🎯 GitHub Streak
+<div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=CascadeInfinity&theme=radical)](https://git.io/streak-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CascadeInfinity&theme=dark&layout=donut)
 
-## 🏆 Achievements
+</div>
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=CascadeInfinity&theme=radical&no-frame=true&margin-w=4&column=3)
+## 📈 Contribution Stats
+
+<div align="center">
+
+![Contributions](https://github-readme-stats.vercel.app/api?username=CascadeInfinity&show_icons=true&count_private=true&theme=dark)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=CascadeInfinity&theme=dark)
+
+</div>
 
 ## 🎯 Current Focus
 
@@ -44,21 +54,6 @@ I'm passionate about clean code, innovative solutions, and collaborative develop
 - Machine Learning
 - Open Source Contribution
 - DevOps & CI/CD
-
-## 📊 This Week's Stats
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Coding Activity</h3>
-      <p align="center">Track my contributions and commits</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Repository Stats</h3>
-      <p align="center">Explore my public repositories</p>
-    </td>
-  </tr>
-</table>
 
 ## 📫 Get in Touch
 
